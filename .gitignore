@@ -1,0 +1,5 @@
+target/**
+log.out
+firebase.json
+.idea/**
+*.properties
